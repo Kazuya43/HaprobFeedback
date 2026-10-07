@@ -1,0 +1,8 @@
+{
+  "name": "HaprobFeedback",
+  "rootNamespace": "HaprobFeedback",
+  "references": [],
+  "includeAssemblies": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
